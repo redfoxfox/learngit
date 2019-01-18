@@ -6,3 +6,4 @@ git test git diff HEAD
 add new branch dev
 add this line to testfile
 test merge conflict in dev branch
+test fast-forward merge
