@@ -3,3 +3,4 @@ test git commit -am fucntion
 test git diff funciton
 test git diff HEAD
 git test git diff HEAD
+add new branch dev
