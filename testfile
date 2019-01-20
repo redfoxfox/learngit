@@ -10,3 +10,4 @@ test merge conflict in dev branch
 test fast-forward merge
 test fast-forward merge2
 test git stash 
+test tortoise
